@@ -1,2 +1,2 @@
-#  ubtractio0non
+#  ubtraction well
 echo $(($1 - $2))
